@@ -1,1 +1,3 @@
-![GitHub Snake Animation](https://github.com/HaticeSude/HaticeSude/blob/output/github-contribution-grid-snake.svg)
+# Hi there 👋
+
+![GitHub Snake Animation](https://raw.githubusercontent.com/HaticeSude/HaticeSude/refs/heads/output/snake.svg)
