@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Hatice Sude</h1>
+<h1 align="center"> Hi, I'm Hatice Sude</h1>
 
 <p align="center">
   Computer Engineering Student • AI & Computer Vision Enthusiast • Python & Java Developer
@@ -12,14 +12,6 @@
 - 🧠 Works with: Python, Java, C, Git, GitHub Actions  
 - 🛠️ Building: Hand Gesture Virtual Mouse, OCR & Layout Analysis, Smart Systems  
 - 📌 Currently working on improving my GitHub profile & projects  
-
----
-
-## 🔥 GitHub Contribution Snake (Dark Mode)
-<div align="center">
-  <img src="https://raw.githubusercontent.com/HaticeSude/HaticeSude/output/snake-dark.svg"
-       width="600" alt="snake dark"/>
-</div>
 
 ---
 
@@ -40,8 +32,8 @@
 ## 📊 GitHub Stats
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=HaticeSude&show_icons=true&theme=github_dark" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaticeSude&layout=compact&theme=github_dark" />
+<img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=haticesude&show_icons=true&theme=github_dark" />
+<img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=haticesude&layout=compact&theme=github_dark" />
 
 </div>
 
@@ -50,9 +42,15 @@
 ## 🌐 Connect With Me
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haticesudemutlu344)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:haticesudemutlu@gmail.com)
 
+</div>
+
+---
+<div align="center">
+  <img src="https://raw.githubusercontent.com/HaticeSude/HaticeSude/output/snake-dark.svg"
+       width="600" alt="snake dark"/>
 </div>
 
 ---
