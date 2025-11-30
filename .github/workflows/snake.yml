@@ -1,27 +1,26 @@
-name: Generate Snake
+name: GitHub Contribution Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *"  
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Generate GitHub contribution grid snake
-        uses: Platane/snk@v3
+      - name: Generate Snake (Dark Mode)
+        uses: davidtjong/snake-contrib-stats@v2
         with:
           github_user_name: HaticeSude
-          outputs: |
-            dist/snake.svg
-          theme: dark
+          svg_out_path: dist/snake-dark.svg
+          theme: "dark"   # DARK MODE BURADA ÇALIŞIYOR
 
-      - name: Push Snake Animation
+      - name: Upload to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
