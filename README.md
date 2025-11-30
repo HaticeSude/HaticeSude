@@ -1,6 +1,6 @@
-<h1 align="center"> Hi, I'm Hatice Sude</h1>
+<h1> Hi, I'm Hatice Sude</h1>
 
-<p align="center">
+<p>
   Computer Engineering Student • AI & Computer Vision Enthusiast • Python & Java Developer
 </p>
 
@@ -16,7 +16,7 @@
 ---
 
 ## 🧰 Languages & Tools  
-<div align="center">
+<div>
   
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
@@ -30,25 +30,24 @@
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
+<div>
 
-<img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=haticesude&show_icons=true&theme=github_dark" />
-<img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=haticesude&layout=compact&theme=github_dark" />
+<img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=haticesude&theme=dark&hide_border=true" />
 
-</div>
-
----
-
-## 🌐 Connect With Me
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haticesudemutlu344)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:haticesudemutlu@gmail.com)
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haticesude&layout=compact&theme=transparent" />
 
 </div>
 
 ---
-<div align="center">
+
+## 📬 Contact
+<div>
+- 📧 Email: [haticesudemutlu@gmail.com](mailto:haticesudemutlu@gmail.com)
+- 🔗 LinkedIn: [haticesudemutlu344](https://www.linkedin.com/in/haticesudemutlu344)
+</div>
+
+---
+<div>
   <img src="https://raw.githubusercontent.com/HaticeSude/HaticeSude/output/snake-dark.svg"
        width="600" alt="snake dark"/>
 </div>
