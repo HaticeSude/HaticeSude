@@ -1,6 +1,21 @@
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/HaticeSude/HaticeSude/refs/heads/output/snake.svg"
-       alt="snake animation"
-       width="900" />
+  <img 
+       src="https://raw.githubusercontent.com/HaticeSude/HaticeSude/output/snake.svg"
+       alt="GitHub Snake Animation"
+       width="750" />
 </div>
