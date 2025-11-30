@@ -2,7 +2,7 @@ name: GitHub Contribution Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -13,12 +13,15 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
+      - name: Create output directory
+        run: mkdir -p dist
+
       - name: Generate Snake (Dark Mode)
         uses: davidtjong/snake-contrib-stats@v2
         with:
-          github_user_name: HaticeSude
-          svg_out_path: dist/snake-dark.svg
-          theme: "dark"   # DARK MODE BURADA ÇALIŞIYOR
+          github_user_name: haticesude
+          out_file: dist/snake-dark.svg
+          theme: dark
 
       - name: Upload to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
