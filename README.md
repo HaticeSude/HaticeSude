@@ -29,17 +29,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<div>
-
-<img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=haticesude&theme=dark&hide_border=true" />
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haticesude&layout=compact&theme=transparent" />
-
-</div>
-
----
-
 ## 📬 Contact
 📧 **Email:** [haticesudemutlu@gmail.com](mailto:haticesudemutlu@gmail.com)  
 🔗 **LinkedIn:** [haticesudemutlu344](https://www.linkedin.com/in/haticesudemutlu344)
