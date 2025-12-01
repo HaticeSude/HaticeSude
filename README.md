@@ -1,4 +1,4 @@
-<h1> Hi, I'm Hatice Sude</h1>
+<h1> I'm Hatice Sude</h1>
 
 <p>
   Computer Engineering Student • AI & Computer Vision Enthusiast • Python & Java Developer
@@ -41,11 +41,8 @@
 ---
 
 ## 📬 Contact
-<div>
-- 📧 Email: [haticesudemutlu@gmail.com](mailto:haticesudemutlu@gmail.com)
-- 🔗 LinkedIn: [haticesudemutlu344](https://www.linkedin.com/in/haticesudemutlu344)
-</div>
-
+📧 **Email:** [haticesudemutlu@gmail.com](mailto:haticesudemutlu@gmail.com)  
+🔗 **LinkedIn:** [haticesudemutlu344](https://www.linkedin.com/in/haticesudemutlu344)
 ---
 <div>
   <img src="https://raw.githubusercontent.com/HaticeSude/HaticeSude/output/snake-dark.svg"
